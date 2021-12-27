@@ -1,0 +1,53 @@
+[
+  {
+    "UserName": "sahar",
+    "UserAddress": "tagamo3",
+    "ChosenPizzas": [
+      {
+        "PizzaType": "Chicken",
+        "PizzaSize": "Small",
+        "Toppings": [
+          "Corn",
+          "Mushrooms"
+        ]
+      },
+      {
+        "PizzaType": "Margherita",
+        "PizzaSize": "Medium",
+        "Toppings": [
+          "Chicken",
+          "Corn",
+          "Mushrooms"
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "Leqaa",
+    "UserAddress": "tagamo3",
+    "ChosenPizzas": [
+      {
+        "PizzaType": "Margherita",
+        "PizzaSize": "Medium",
+        "Toppings": [
+          "Chicken",
+          "Mushrooms"
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "Leqaa",
+    "UserAddress": "tagamo3",
+    "ChosenPizzas": [
+      {
+        "PizzaType": "Margherita",
+        "PizzaSize": "Medium",
+        "Toppings": [
+          "Chicken",
+          "Mushrooms"
+        ]
+      }
+    ]
+  }
+]

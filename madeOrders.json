@@ -1,0 +1,29 @@
+[
+  {
+    "UserName": "fatoom",
+    "UserAddress": "kuwait",
+    "ChosenPizzas": [
+      {
+        "PizzaType": "Pepperoni",
+        "PizzaSize": "Large",
+        "Toppings": [
+          "Beef",
+          "Tomatoes"
+        ]
+      }
+    ]
+  },
+  {
+    "UserName": "sahar",
+    "UserAddress": "tagamo3",
+    "ChosenPizzas": [
+      {
+        "PizzaType": "Chicken",
+        "PizzaSize": "Small",
+        "Toppings": [
+          "Mushrooms"
+        ]
+      }
+    ]
+  }
+]

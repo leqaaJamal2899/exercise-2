@@ -1,0 +1,10 @@
+{
+    "PizzaTypes":["Margherita","Classic", "Pepperoni", 
+        "European", "Cheese lovers", "Vegetarian", 
+        "Chicken","Beef"],
+    "PizzaSizes":["Small","Medium", "Large","Family"],
+    "PizzaToppings":["Chicken", "Beef", "Corn", 
+        "Mushrooms", "Pepperoni", "Tomatoes",
+        "Peppers", "Black olives", "Onion",
+        "Mozzarella","Tomato sauce","Spicy tomato sauce","BBQ sauce"]
+}
